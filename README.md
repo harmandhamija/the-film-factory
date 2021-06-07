@@ -1,1 +1,6 @@
-A React app for movie lovers where users can enter an English movie to get foreign movie recommendations with data retrieved from MovieDB REST API. Users can save the searched & recommended movie as a pair to the saved list & can look up all time results saved by other users. Built an AutoComplete component from scratch as well for better user experience.
+See foreign language film recommendations based on any english language film you search for.
+
+- Created using React, MovieDB REST API & Firebase.
+- Users can add movie pairs to saved list.
+- Built an AutoComplete search feature for better user experience.
+
